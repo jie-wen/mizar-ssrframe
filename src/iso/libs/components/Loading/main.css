@@ -1,0 +1,11 @@
+
+.loading {
+    width: 2rem;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translate(0, -50%);
+    margin: auto;
+    z-index: 1000;
+}

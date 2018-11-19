@@ -1,0 +1,11 @@
+{
+    "vendorPack": {
+        "browserVendor": [
+            "react",
+            "react-dom",
+            "react-router"
+        ]
+    },
+    "serverPack": {
+    }
+}
